@@ -5,7 +5,7 @@
 The Krishna Store wants to create an annual sales report for 2022. So that, the owner of the Krishna store can understand their customers and grow more sales in 2023.
 
 ## **Dataset used**
-- <a href="https://github.com/Krishnkumar542/Krishna-Store-Data-Analysis/blob/main/Krishna%20Store%20Data.xlsx">Krishna Store Data</a>
+- <a href="https://github.com/rahulbhesare/Krishna-Store-Data-Analysis/blob/main/Krishna%20Store%20Project%20And%20Dashboard.xlsx">Krishna Store Data</a>
 
 ## **Questions (KPIs)**
 
@@ -31,7 +31,7 @@ The Krishna Store wants to create an annual sales report for 2022. So that, the 
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/Krishnkumar542/Krishna-Store-Data-Analysis/blob/main/Krishna%20Store%20Dashboard.png)
+![Alt text of the image](https://github.com/rahulbhesare/Krishna-Store-Data-Analysis/blob/main/Krishna%20Store%20Dashboards.PNG)
 
 
 
